@@ -47,6 +47,8 @@ DerivedData
 
 Socket.IO-Test-Server/node_modules/*
 
+Carthage
+
 .idea/
 docs/docsets/
 docs/undocumented.json
